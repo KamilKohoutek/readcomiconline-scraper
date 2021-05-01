@@ -5,7 +5,7 @@ Takes 2 arguments:
 - url of the comic issue
 - destination folder path
 - 
-Images will be downloaded to destionation folder with names "{n}.jpg" where n is the page number.
+Images will be downloaded to destination folder with names "{n}.jpg" where n is the page number.
 
 Exmaple:
 
