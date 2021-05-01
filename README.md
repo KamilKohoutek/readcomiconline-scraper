@@ -6,9 +6,11 @@ Takes 2 arguments:
 - destination folder path
 Images will be downloaded to destionation folder with names "{n}.jpg" where n is the page number.
 
-Exmaple:\n
+Exmaple:
+
 python scraper.py "https://readcomiconline.li/Comic/Batman-1940/Annual-1?id=48568" "C:/Users/kamil/Downloads"
 
 
-Disclaimer:\n
+Disclaimer:
+
 This script is for educational purposes only.
